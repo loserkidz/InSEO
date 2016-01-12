@@ -1,6 +1,6 @@
 /**
  * Navigasi Nomor halaman blogger
- * http://cherrysixty.blogspot.com
+ * http://indzign.blogspot.com
  */
 
 var nopage;
